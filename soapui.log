@@ -1,0 +1,12 @@
+2015-07-31 17:28:22,887 WARN  [SoapUI] Missing folder [D:\Gspann\G_drive\SoapUIPOC\.\ext] for external libraries
+2015-07-31 17:28:23,083 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\User\soapui-settings.xml]
+2015-07-31 17:28:23,741 INFO  [WsdlProject] Loaded project from [file:/D:/Gspann/G_drive/SoapUIPOC/src/test/java/com/macys/soapui/SoapUiPrj-soapui-project.xml]
+2015-07-31 17:28:23,743 WARN  [WsdlProject] Project 'SoapUiPrj' is from a newer version (5.0.0) of SoapUI than this (4.6.4) and parts of it may be incompatible or incorrect. Saving this project with this version of SoapUI may cause it to function differently.
+2015-07-31 17:28:24,129 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [SoapUiPrj]
+2015-07-31 17:28:24,131 INFO  [SoapUITestCaseRunner] Running TestSuite [TestSuite 1], runType = SEQUENTIAL
+2015-07-31 17:28:24,139 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestCase 1]
+2015-07-31 17:28:24,157 INFO  [SoapUITestCaseRunner] running step [ConversionRate - Request 1]
+2015-07-31 17:28:30,788 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2015-07-31 17:28:30,789 INFO  [SoapUITestCaseRunner] Assertion [Response SLA] has status VALID
+2015-07-31 17:28:30,791 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestCase 1], time taken: 6621ms, status: FINISHED
+2015-07-31 17:28:30,795 INFO  [SoapUITestCaseRunner] TestSuite [TestSuite 1] finished with status [FINISHED] in 6660ms
